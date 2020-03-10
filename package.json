@@ -1,0 +1,19 @@
+{
+  "name": "streaming",
+  "version": "0.0.1",
+  "description": "creacion de video streaming con node.js socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Socket.io"
+  ],
+  "author": "ogarciag700@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
